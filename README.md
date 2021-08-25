@@ -1,5 +1,9 @@
 # Recommender System
 
+- Nama : Rahmat Fajri
+- Email : rfajri912@gmail.com
+- [Portofoli](https://rfajri27.github.io/MyPortfolio/)
+
 Dataset yang digunakan pada project ini merupakan dataset dari salah satu modul project-based yang telah saya selesaikan di DQLab Academy. 
 
 Project ini terdiri dari menggunakan dua buah recomender system.
