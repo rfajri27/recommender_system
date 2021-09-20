@@ -6,7 +6,7 @@
 
 Dataset yang digunakan pada project ini merupakan dataset dari salah satu modul project-based yang telah saya selesaikan di DQLab Academy. 
 
-Project ini terdiri dari menggunakan dua buah recomender system.
+Project ini terdiri dari dua buah recomender system.
 
 ## [Simple Recommender Engine using Weighted Average](https://github.com/rfajri27/recommender_system/blob/main/simple_recommender_engine.ipynb)
 
